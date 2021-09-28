@@ -1,4 +1,4 @@
-# steam-miniprofile-api
+# steam-nodejs-miniprofile-api
 
 ## Features:
 - game activity / online, offline
